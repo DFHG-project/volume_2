@@ -1,4 +1,5 @@
-DIODORUS PERIEGETA - TABULA PAGORUM ATTICORUM
+##DIODORUS PERIEGETA - TABULA PAGORUM ATTICORUM (pp. 357-359)
+
 Exhibuimus locos, quos ex Diodori Περὶ δήμων opere afferuntur, nominato auctore. Dubium vero vix est quin etiam reliqua, quæ de pagis
 Atticis apud grammaticos leguntur, magnam certe partem ex eodem fonte, vel ex Didymo, qui Diodori libro maxime usus est, sint deprompti. Quare haud
 ingratum fuerit subjicere tabulam pagorum Atticorum, quam Grotefendius junior elaboravit et in Pauly's Realencycl., I, p. 944 sqq. excudendam curavit. Ita
