@@ -1,6 +1,6 @@
 ## DFHG Volumen Secundum
 
-This page contains data from the [DFHG project](http://www.dfhg-project.org/) - [Volumen Secundum](http://www.dfhg-project.org/DFHG/index.php?volume=Volumen%20secundum).
+This repository stores data from the [DFHG project](http://www.dfhg-project.org/) - [Volumen Secundum](http://www.dfhg-project.org/DFHG/index.php?volume=Volumen%20secundum).
 
 The volume contains fragments of the histories of Diodorus Siculus, Polybius, and Dionysius of Halicarnassus, and fragments of historians from 520 through 247 BC including Aristoteles and his disciples and historians from the time of Alexander the Great.
 
