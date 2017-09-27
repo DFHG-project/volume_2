@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/72339628.svg)](https://zenodo.org/badge/latestdoi/72339628)
+
 ## DFHG Volumen Secundum
 
 This repository stores data from the [DFHG project](http://www.dfhg-project.org/) - [Volumen Secundum](http://www.dfhg-project.org/DFHG/index.php?volume=Volumen%20secundum).
