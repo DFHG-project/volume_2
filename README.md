@@ -6,7 +6,10 @@ This repository stores data from the [DFHG project](http://www.dfhg-project.org/
 
 The volume contains fragments of the histories of Diodorus Siculus, Polybius, and Dionysius of Halicarnassus, and fragments of historians from 520 through 247 BC including Aristoteles and his disciples and historians from the time of Alexander the Great.
 
-`xml` files have been automatically generated from data stored in the DFHG database and are encoded in accordance with EpiDoc standards and with the CTS/CITE Architecture.
+`xml` files have been automatically generated from data stored in the DFHG database and are encoded in accordance with the CTS/CITE Architecture.
+The repository contains two kinds of files arranged by DFHG authors:
+* Epidoc `xml` files that are encoded in accordance with EpiDoc standards and represent the structure of the edition of the FHG.
+* Well formed `xml` files that collect information about fragments and extant texts collected in the FHG.
 
 #### License
 
