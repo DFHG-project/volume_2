@@ -4,7 +4,7 @@
 
 This repository stores data from the [DFHG project](http://www.dfhg-project.org/) - [Volumen Secundum](http://www.dfhg-project.org/DFHG/index.php?volume=Volumen%20secundum).
 
-The volume contains fragments of the histories of Diodorus Siculus, Polybius, and Dionysius of Halicarnassus, and fragments of historians from 520 through 247 BC including Aristoteles and his disciples and historians from the time of Alexander the Great.
+The volume contains 98 authors with fragments of the histories of Diodorus Siculus, Polybius, and Dionysius of Halicarnassus, and fragments of historians from 520 through 247 BC including Aristoteles and his disciples and historians from the time of Alexander the Great.
 
 `xml` files have been automatically generated from data stored in the DFHG database and are encoded in accordance with the CTS/CITE Architecture.
 The repository contains two kinds of files arranged by DFHG authors:
