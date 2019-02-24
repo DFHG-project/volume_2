@@ -8,7 +8,7 @@ The volume contains 98 authors with fragments of the histories of Diodorus Sicul
 
 `xml` files have been automatically generated from data stored in the DFHG database and are encoded in accordance with the CTS/CITE Architecture.
 The repository contains two kinds of files arranged by DFHG authors:
-* Epidoc `xml` files that are encoded in accordance with EpiDoc standards and represent the structure of the edition of the FHG.
+* EpiDoc `xml` files that are encoded in accordance with EpiDoc standards and represent the structure of the edition of the FHG.
 * Well formed `xml` files that collect information about fragments and extant texts collected in the FHG.
 
 #### License
